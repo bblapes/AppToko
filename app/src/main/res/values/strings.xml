@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppToko</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="spinner_sort">
+        <item>Name ASC</item>
+        <item>Name DESC</item>
+        <item>Harga ASC</item>
+        <item>Harga DESC</item>
+    </string-array>
+
+    <string-array name="spinner_sup">
+        <item>Suplier 1</item>
+        <item>Suplier 2</item>
+        <item>Suplier 3</item>
+        <item>Suplier 4</item>
+    </string-array>
+</resources>
